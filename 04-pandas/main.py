@@ -23,6 +23,9 @@ def perfect_numbers(n):
     return p_numbers
 
 
-print(perfect_numbers(4))
+
+
+
+
 
 
