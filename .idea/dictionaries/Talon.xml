@@ -2,6 +2,7 @@
   <dictionary name="Talon">
     <words>
       <w>dataframe</w>
+      <w>frange</w>
     </words>
   </dictionary>
 </component>
