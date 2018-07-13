@@ -3,7 +3,10 @@
     <words>
       <w>dataframe</w>
       <w>frange</w>
+      <w>goog</w>
+      <w>groupby</w>
       <w>hier</w>
+      <w>nunique</w>
     </words>
   </dictionary>
 </component>
