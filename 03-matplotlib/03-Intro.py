@@ -16,7 +16,7 @@ print(y)
 # plt.plot(x, y)
 # plt.xlabel('X'); plt.ylabel('Y')
 # plt.title('Title')
-
+#
 # plt.subplot(1,2,1)  # 1 row, 2 columns, number 1
 # plt.plot(x,y, 'r')
 # plt.subplot(1,2,2)  # 1 row, 2 columns, number 2
