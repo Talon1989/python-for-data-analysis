@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Talon">
     <words>
+      <w>coolwarm</w>
       <w>dataframe</w>
       <w>dataset</w>
       <w>ecom</w>
@@ -8,9 +9,11 @@
       <w>goog</w>
       <w>groupby</w>
       <w>hier</w>
+      <w>joinplot</w>
       <w>linespacer</w>
       <w>linspacer</w>
       <w>nunique</w>
+      <w>rugplot</w>
     </words>
   </dictionary>
 </component>
