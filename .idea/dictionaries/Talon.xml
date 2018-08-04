@@ -2,6 +2,7 @@
   <dictionary name="Talon">
     <words>
       <w>boxenplot</w>
+      <w>clustermap</w>
       <w>coolwarm</w>
       <w>dataframe</w>
       <w>dataset</w>
@@ -14,9 +15,11 @@
       <w>linespacer</w>
       <w>linspacer</w>
       <w>nunique</w>
+      <w>pairplot</w>
       <w>rugplot</w>
       <w>scatterplot</w>
       <w>stripplot</w>
+      <w>summ</w>
     </words>
   </dictionary>
 </component>
