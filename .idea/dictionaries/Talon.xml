@@ -2,12 +2,14 @@
   <dictionary name="Talon">
     <words>
       <w>boxenplot</w>
+      <w>boxplot</w>
       <w>clustermap</w>
       <w>coolwarm</w>
       <w>dataframe</w>
       <w>dataset</w>
       <w>ecom</w>
       <w>frange</w>
+      <w>ggplot</w>
       <w>goog</w>
       <w>groupby</w>
       <w>hier</w>
@@ -18,6 +20,7 @@
       <w>pairplot</w>
       <w>rugplot</w>
       <w>scatterplot</w>
+      <w>seaborn</w>
       <w>stripplot</w>
       <w>summ</w>
       <w>whitegrid</w>
