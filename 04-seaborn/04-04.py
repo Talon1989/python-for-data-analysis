@@ -27,7 +27,6 @@ def grids():
     plt.show()
 
 
-
 print()
 
 tips = sns.load_dataset('tips')
